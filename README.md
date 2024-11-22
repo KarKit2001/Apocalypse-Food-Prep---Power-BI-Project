@@ -1,7 +1,6 @@
 
 # Apocalypse Food Prep - Power BI Project
-![image](https://github.com/user-attachments/assets/370c6f34-abbe-42f4-a993-2a3f5cdf50b7)
-
+![image](https://github.com/user-attachments/assets/35e876f6-3b9d-46eb-9d22-c5f6e29ab580)
 
 
 ## 📖 Project Overview
