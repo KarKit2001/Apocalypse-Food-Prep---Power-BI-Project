@@ -1,5 +1,6 @@
 
 # Apocalypse Food Prep - Power BI Project
+![image](https://github.com/user-attachments/assets/370c6f34-abbe-42f4-a993-2a3f5cdf50b7)
 
 
 
@@ -37,6 +38,7 @@ Target offers the lowest prices for rice, making it a better option for this pro
 
 ## 📊 Dataset
 Dataset and inspiration provided by Alex The Analyst.
+
 https://www.youtube.com/watch?v=g0m5sEHPU-s&t=70s&ab_channel=AlexTheAnalyst
 
 ## 🌟 Future Improvements
